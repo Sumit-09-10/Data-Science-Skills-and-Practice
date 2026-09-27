@@ -1,5 +1,9 @@
 # Pandas – Placement Ready Practice & Projects
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Placement%20Ready-150458)
+![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
+
 A structured collection of my **Pandas practice, interview-oriented challenges, and real-world projects** completed as part of my Data Science learning journey.
 
 This folder documents my progression from **Pandas fundamentals** to **advanced data analysis and feature engineering**, with a focus on skills expected in **Data Analyst, Machine Learning Engineer, and AI internships/placements**.
