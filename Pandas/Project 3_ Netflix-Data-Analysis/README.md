@@ -47,25 +47,7 @@ Netflix-Data-Analysis/
 ├── README.md
 ├── requirements.txt
 └── insights.md
-```
 
-## 🚀 How to Run
-
-1. Clone or unzip this project.
-2. Create a virtual environment (recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # Windows: venv\Scripts\activate
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Launch Jupyter and open the notebook:
-   ```bash
-   jupyter notebook notebooks/Netflix_Data_Analysis.ipynb
-   ```
-5. Run all cells (`Kernel → Restart & Run All`). Charts save automatically to `images/`, and the cleaned dataset saves to `data/cleaned_netflix.csv`.
 
 ## 🔍 What the Notebook Covers
 
