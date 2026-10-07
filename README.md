@@ -20,12 +20,12 @@ It focuses mainly on hands-on implementation rather than only theoretical learni
 
 ## Skills Covered
 
-- Python for Data Science
+- Python for Data Science (has saprate repo)
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
-- SQL
+- SQL (in progress)
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
@@ -43,10 +43,10 @@ Data-Science-Skills-and-Practice/
 │
 ├── Data Visualization_MATPLOTLIB_SEABORN/
 │   │
-│   ├── Project 3 ML_EDA_Challange/
-│   ├── Project 4 Sales_Dataset_Complete_EDA/
-│   ├── Project 5 Student_Performance_Complete_EDA/
-│   ├── Project 6 Netflix-Data-Analysis/
+│   ├── Mini Project 3 ML_EDA_Challange/
+│   ├── Mini Project 4 Sales_Dataset_Complete_EDA/
+│   ├── Mini Project 5 Student_Performance_Complete_EDA/
+│   ├── Mini Project 6 Netflix-Data-Analysis/
 │   │
 │   ├── Matplotlib_Seaborn_Practice.ipynb
 │   └── README.md
@@ -55,13 +55,13 @@ Data-Science-Skills-and-Practice/
 │   │
 │   ├── EDA Practice.ipynb
 │   ├── Numpy Practice.ipynb
-│   ├── Project 1 employee_ml_pipeline.ipynb
-│   ├── Project 2 Recommendation_engine.ipynb
+│   ├── Mini Project 1 employee_ml_pipeline.ipynb
+│   ├── Mini Project 2 Recommendation_engine.ipynb
 │   └── README.md
 │
 ├── Pandas/
 │   │
-│   ├── Project 3_Netflix-Data-Analysis/
+│   ├── Mini Project 3_Netflix-Data-Analysis/
 │   ├── Pandas_practice.ipynb
 │   └── README.md
 │
