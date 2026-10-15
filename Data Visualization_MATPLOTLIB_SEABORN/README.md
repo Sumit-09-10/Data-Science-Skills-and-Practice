@@ -14,8 +14,6 @@ This repository builds on my knowledge of **Python, NumPy, and Pandas** and focu
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4c72b0)](https://seaborn.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/)
 
 ---
 
