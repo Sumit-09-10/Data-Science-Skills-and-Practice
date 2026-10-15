@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Placement%20Ready-150458)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
+![Projects](https://img.shields.io/badge/Projects-1-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 A structured collection of my **Pandas practice, interview-oriented challenges, and real-world projects** completed as part of my Data Science learning journey.
 
