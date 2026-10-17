@@ -5,7 +5,6 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4c72b0)](https://seaborn.pydata.org/)
-[![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-336791)](https://www.w3schools.com/sql/)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-orange)]()
 
 ## About This Repository
@@ -25,7 +24,6 @@ It focuses mainly on hands-on implementation rather than only theoretical learni
 - Pandas
 - Matplotlib
 - Seaborn
-- SQL (in progress)
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
